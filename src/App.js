@@ -12,7 +12,7 @@ const MODELS = {
     lable: 'FULL',
     title: 'CNC Conveyorbelt Tangential Knife',
     accessibility: 'None',
-    description: 'Full is a small workshop based around a high speed computer controlled fabric cutter. This page hosts an open-source glossary of accessible and inclusive garment patterns developed by FULL. Research support comes from the Center For Craft, MSAC, and the Processing Foundation. Patterns are ungraded and minimally tested, adaptable as needed. Accessibility features will be added upon request. Collaboration, pattern drafting, and degrowth-related inquiries can be directed to rosebuttress@gmail.com or @rosebuttress on IG.',
+    description: 'Full is a small workshop based around a prototype computer controlled fabric cutter. To learn more about the equipment visit the Repository below or download the Assembly Guide. This page hosts an open-source glossary of accessible and inclusive garment patterns developed by FULL. Research support comes from the Center For Craft, MSAC, and the Processing Foundation. Patterns are ungraded and generally untested, and available as a starting point of for adaptation. Accessibility features will be added upon request. Collaboration, pattern drafting, and degrowth-related inquiries can be directed to rosebuttress@gmail.com or @rosebuttress on IG.',
     glbFileLocation: '/models/full.glb',
     pdfFileLocation: 'https://github.com/rbuttress/full/blob/main/Assembly%20Guide.pdf',
   },
