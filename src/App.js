@@ -150,6 +150,14 @@ export default function App() {
               { MODELS[modelName].lable }
             </button>
           ) ) }
+          <button
+            key="pdf"
+            onClick={ () => window.location.href = "/documents/garments.pdf" }
+            className={ `flex px-4 py-2 font-semibold text-gray-600` }
+
+          >
+            All Garments.PDF
+          </button>
         </div>
       </nav>
 
